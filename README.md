@@ -1,7 +1,7 @@
 <h1>Simple_tmx_parser</h6>
 <h2>About:</h2>
 <h2>
-  Simple tmx parser is a C/CPP lib that parser any tag atribute or data you want from any tmx file(tiled project file) to use in your code.<br>
+  Simple tmx parser is a CPP lib that parser any tag atribute or data you want from any tmx file(tiled project file) to use in your code.<br>
   <br>Works only for encoding csv, other encoding's will be add latter.
 </h2>
 <h2>How to use</h2>
